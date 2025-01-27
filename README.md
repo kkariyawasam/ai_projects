@@ -32,7 +32,7 @@ This guide explains how to run the provided `.ipynb` file using Jupyter Notebook
 3. **Set Environment Variables** (if applicable):
    - Create a `.env` file for sensitive data (e.g., API keys) with the following format:
      ```
-     VARIABLE_NAME=value
+     OPENAI_API_KEY=value
      ```
 
 ---
